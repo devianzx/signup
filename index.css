@@ -102,11 +102,11 @@ color: var(--color);
     outline: none !important;
     border: none;
     background: var(--bg1);
-    box-shadow: var(--boxShadow2);
+    box-shadow: var(--boxShadow3);
     border-radius: 25px;
 }
 input:focus{
-    box-shadow: var(--boxShadow3);
+    box-shadow: var(--boxShadow2);
 }
 ::placeholder{
     color: var(--tcolor);
